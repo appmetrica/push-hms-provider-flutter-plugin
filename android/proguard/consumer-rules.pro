@@ -1,0 +1,4 @@
+-dontwarn io.appmetrica.analytics.push.hms.flutter.**
+-keeppackagenames io.appmetrica.analytics.push.hms.flutter.**
+-keep class io.appmetrica.analytics.push.hms.flutter.** { *; }
+-keep enum io.appmetrica.analytics.push.hms.flutter.** { *; }
