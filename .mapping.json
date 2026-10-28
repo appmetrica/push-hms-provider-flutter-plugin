@@ -17,6 +17,7 @@
   "android/src/main/AndroidManifest.xml":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/android/src/main/AndroidManifest.xml",
   "android/src/main/java/io/appmetrica/analytics/push/hms/flutter/AppMetricaPushHmsProviderPlugin.java":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/android/src/main/java/io/appmetrica/analytics/push/hms/flutter/AppMetricaPushHmsProviderPlugin.java",
   "android/src/main/java/io/appmetrica/analytics/push/hms/flutter/HmsPushProviderFactory.java":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/android/src/main/java/io/appmetrica/analytics/push/hms/flutter/HmsPushProviderFactory.java",
+  "android/src/test/java/io/appmetrica/analytics/push/hms/flutter/HmsPushProviderFactoryTest.kt":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/android/src/test/java/io/appmetrica/analytics/push/hms/flutter/HmsPushProviderFactoryTest.kt",
   "lib/appmetrica_push_hms_provider_plugin.dart":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/lib/appmetrica_push_hms_provider_plugin.dart",
   "lib/src/hms_push_provider.dart":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/lib/src/hms_push_provider.dart",
   "pubspec.yaml":"mobile/metrika/flutter/appmetrica_push_hms_provider_plugin/pubspec.yaml",
